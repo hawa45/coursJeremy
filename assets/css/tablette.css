@@ -1,0 +1,104 @@
+/* version tablette */
+
+@media screen and (min-width:481px) and (max-width:1023px){
+    
+   main{height: auto;
+ width: 100%;
+ background: rgb(243,94,64);
+float: left}  
+  
+header{ width: 100%;
+ height: 400px;
+ background: rgba(12,39,68,.5)
+ 
+ }
+  hgroup{ color: snow;
+  padding: 50px}  
+    
+  section.content{
+  width: 100%;
+  height: 100vh;
+color: snow;
+  background: rgba(255,255,255,.1);
+    padding: 0 50px
+ } 
+    h3{font-size: 30px;
+    color: gray;
+    margin: 15px}
+    
+    h2{font-size: 40px}
+    h4{font-size: 16; color: rgb(12,39,68) }
+    h1,h2,h4,h3,p{text-align: center}
+  
+    
+    
+ a.btn2, a.btn3{display: none; } 
+    
+ section#profil{
+  width: 100%;
+  height: auto;
+  color: snow;
+  float: left;
+  background: white;
+    justify-content: center;
+    display: flex
+ }  
+    
+  figure.rond{width: 203px;
+  margin: auto}
+    
+   hgroup.profil h4:last-child{padding-bottom: 10px}
+  
+  hr{
+ width: 30%;
+ margin: 15px auto }
+ 
+ time{width: 20%;
+ margin: 0 0 15px 35%;
+ color:white}
+ 
+ aside{ width: 100%;
+ height: auto;
+background:black;
+ color: snow;
+ padding: 25px;
+ text-align: center}
+ 
+ cite{font-size: 12px;
+ text-transform: capitalize}
+ 
+ footer{ background: black;
+ color: snow;
+ text-align: center;
+ height: 80px;
+ padding-top: 20px}
+ 
+ address{width: 50%;
+  margin:  auto;
+  padding: 15px;
+  border: 1px solid white;
+  word-spacing: 5px
+ }
+ 
+ address a{color: rgb(243,94,64); text-decoration: none}
+ 
+iframe{width: 100%}
+ 
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
+    
